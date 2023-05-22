@@ -1,4 +1,1 @@
-Value of a 4
-Memory Address of a 0x20168a66ae0
-Value of b 4.75
-Memory Address of b 0x20168a66b00
+5 10 15 20 25 30 
