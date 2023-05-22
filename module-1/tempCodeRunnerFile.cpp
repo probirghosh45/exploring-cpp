@@ -1,3 +1,3 @@
- // int a=5,b=10;
-
-    // std::cout << a << std::endl << std::cout << b << std::endl;
+    cin.getline (str, 100);
+    cout << str << endl;
+    cout << strlen(str);
