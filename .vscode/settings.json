@@ -37,6 +37,7 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "files.associations": {
     "*.css": "tailwindcss",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "random": "cpp"
   }
 }
