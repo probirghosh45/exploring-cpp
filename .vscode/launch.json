@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Phitron-B3-2023/C++ for dsa/module-2.5",
-      "program": "d:/Phitron-B3-2023/C++ for dsa/module-2.5/build/Debug/outDebug",
+      "cwd": "d:/Phitron-B3-2023/C++ for dsa",
+      "program": "d:/Phitron-B3-2023/C++ for dsa/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

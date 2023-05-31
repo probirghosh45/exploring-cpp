@@ -38,6 +38,8 @@
   "files.associations": {
     "*.css": "tailwindcss",
     "iostream": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "typeindex": "cpp",
+    "typeinfo": "cpp"
   }
 }
