@@ -1,0 +1,10 @@
+Hello World
+Size : 11
+Max size : 4611686018427387903
+Capacity : 15
+Size [after clear] : 0
+Empty String
+PH_BD
+5
+PH_
+PH_****
