@@ -4,7 +4,9 @@ int main()
 {
     string s;
     getline(cin, s);
-    stringstream ss(s);
+    // stringstream ss(s);
+    stringstream ss; 
+    ss << s; //alternative
     string word;
 
     // ss >> word;
