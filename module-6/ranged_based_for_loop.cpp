@@ -15,7 +15,7 @@ int main()
     //     cout << r << endl;
     // }
 
-    
+    // by this method we will not get index position
 
     return 0;
 }
